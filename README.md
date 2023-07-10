@@ -13,4 +13,3 @@ Quando criamos um usuário novo.
 ![image](https://user-images.githubusercontent.com/98985125/161891556-d5dcf13e-9714-4e5f-a195-ccae1ff6f40c.png)
 
 Quando selecionamos o icone de exclusão ele exclui e automaticamente atualiza a lista de usuários trazendo uma performance mais rapida por ser em Nuvem.
-
